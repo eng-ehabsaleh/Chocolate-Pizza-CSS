@@ -1,0 +1,187 @@
+header{
+    position: relative;
+    
+    width: 100%;
+    height: 50px;
+
+}
+
+#logo {
+    position: absolute;
+
+}
+
+
+#contact {
+    position: absolute;
+    right: 0px;
+    top: 15px;
+
+}
+
+/* #headerFooter {
+    position: absolute;
+    top: ;
+}
+ */
+
+ header div article h1 {
+     position: absolute; 
+     left: 45px;
+     font-size: 30px;
+     top: 0%;
+
+
+ }
+
+ header div article p {
+     position: absolute;
+     left: 45px;
+     top: 25px;
+     width: 300px;
+     
+ }
+
+#opening img{
+    position: absolute;
+    right: 45px;
+    top: 70px;
+}
+#pr{
+    position: absolute;
+    right: 0px;
+    top: 70px;
+}
+ main {
+     position: relative;
+     top: 40px;
+ }
+
+ #opening h2 {
+     position: absolute;
+     font-size: 40px;
+     left: 0px;
+     top: 30px;
+
+ }
+
+ #opening p {
+    position: absolute;
+    font-size: 15px;
+    /* left: 0px; */
+    top: 70px;
+ }
+
+     
+#choco{
+    position: absolute;
+    top: 100px;
+    width: 100%;
+    height: 750px;
+}
+
+#par{
+    position: absolute;
+    top: 900px;
+    width: 100%;
+}
+
+#list {
+    position: absolute;
+    top: 1000px;
+    
+    width: 100%;
+}
+
+#left {
+    position: absolute;
+    top: 1100px;
+    left: 10%;
+    font-size: 60px;
+    
+
+}
+
+#right { 
+    position: absolute;
+    top: 1100px;
+    right: 10%;
+    font-size: 60px;
+}
+
+/* #hashup { 
+    
+    background-image: url(https://abdulelahxd.github.io/chocolate-pizza/img/hr-img.png);
+    height: 40px;
+}
+
+#hashLow { 
+    background-image: url(https://abdulelahxd.github.io/chocolate-pizza/img/hr-img.png);
+    height: 40px;
+    
+    
+} */
+
+/* article {
+    position: relative;
+} */
+article div {
+    position: absolute;
+    top: 1600px; ;
+    /* width: 100%; */
+    
+}
+
+#hash{
+    position: relative;
+    top: 35px;
+    height: 20px;
+    background-image: url(https://abdulelahxd.github.io/chocolate-pizza/img/hr-img.png);
+
+}
+#hasht{
+    position: relative;
+    top: 1530px;
+    height: 20px;
+    background-image: url(https://abdulelahxd.github.io/chocolate-pizza/img/hr-img.png);
+
+   
+}
+article div img{
+    position: relative;
+    left: 0px;
+}
+article div h3{
+    position: relative;
+    left: 90px;
+    top: -50px;
+}
+article div p{
+    position: relative;
+    width: 100%;
+    left: 90px;
+    top: -50px;
+}
+article div button{
+    position: relative;
+    left: 1411px;
+    top: -81px;
+    background-color: red;
+    height: 40px;
+}
+footer{
+    position: absolute;
+    top: 1800px;
+}
+footer hr{
+    width: 1517px;
+}
+footer img{
+    position: relative;
+    left: 737px;
+    bottom: 25px;
+}
+footer p{
+    position: relative;
+    text-align: center;
+}
